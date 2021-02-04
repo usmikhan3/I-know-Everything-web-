@@ -4,5 +4,5 @@ A simple Flutter Web App.
 
 # Screenshots
 
-![]("screenshots/mobile.gif")
-![]("screenshots/web.gif")
+![](screenshots/mobile.gif)
+![](screenshots/web.gif)
